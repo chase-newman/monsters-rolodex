@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70e37c5d694d258cfe8bb7649688163e",
+    "revision": "fef4bf4557de8433b965353da9d93317",
     "url": "/monsters-rolodex/index.html"
   },
   {
-    "revision": "1afe6935d58e0688c3d2",
+    "revision": "c5df1ec2b014b7132da8",
     "url": "/monsters-rolodex/static/css/main.0bf41bd8.chunk.css"
   },
   {
-    "revision": "f7b84cd810271619eca9",
-    "url": "/monsters-rolodex/static/js/2.7d94dc6b.chunk.js"
+    "revision": "a7a7ddd566f772e6cdc2",
+    "url": "/monsters-rolodex/static/js/2.23064553.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/monsters-rolodex/static/js/2.7d94dc6b.chunk.js.LICENSE.txt"
+    "url": "/monsters-rolodex/static/js/2.23064553.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1afe6935d58e0688c3d2",
-    "url": "/monsters-rolodex/static/js/main.faccb5c7.chunk.js"
+    "revision": "c5df1ec2b014b7132da8",
+    "url": "/monsters-rolodex/static/js/main.2dba5050.chunk.js"
   },
   {
     "revision": "e3f9453037e5f28f8167",
